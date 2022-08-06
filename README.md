@@ -22,7 +22,9 @@ _Leading telegram bot solution designed to fetch news instantly._
 
 <a href="https://github.com/BoKKeR/RSS-to-Telegram-Bot"><img src="img/rss.png" width="290" align="left"></a>
 
-An open source, community supported project based around the telegraf telegram library, RSSTT has grown to support hundreds of users and a wide range of channels.
+An open source, community supported project based around the telegraf telegram library, RSSTT provides RSS feeds to telegram users in readable format. 
+
+It has grown to support hundreds of users and a wide range of channels.
 
 Originally developed in python, it has since been ported to TypeScript using nestjs and can be deployed as a multi user docker container.
 
@@ -32,7 +34,7 @@ This project has inspired multiple forks with different niche utilities.
 
 _Self-hosted web tool to help create thumbnails from the web._
 
-<a href="https://github.com/BoKKeR/thumba"><img src="img/thumba.jpg" width="220" align="left"></a>
+<a href="https://github.com/BoKKeR/thumba"><img src="img/thumba.png" width="220" align="left"></a>
 
 Designed to fill a gap in tooling for custom media, by providing a simple yet reliable method for generating thumbnails with out of the box support for checking multiple web results and generating thumbnails.
 
