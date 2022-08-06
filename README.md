@@ -26,7 +26,7 @@ An open source, community supported project based around the telegraf telegram l
 
 It has grown to support hundreds of users and a wide range of channels as a [publicly hosted bot](https://t.me/rss_t_bot) and has many a following in the self-hosted community.  
 
-Originally developed in python, it has since been ported to TypeScript using nestjs and can be deployed as a multi user docker container.
+Originally developed in python, it has since been ported to TypeScript using nestjs and sqlite library with migrations managed by prisma. It can be deployed as a multi user docker container.
 
 This project has inspired multiple forks with different niche utilities.
 
