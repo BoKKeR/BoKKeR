@@ -24,7 +24,7 @@ _Leading telegram bot solution designed to fetch news instantly._
 
 An open source, community supported project based around the telegraf telegram library, RSSTT provides RSS feeds to telegram users in readable format. 
 
-It has grown to support hundreds of users and a wide range of channels as a [publicly hosted bot](https://t.me/rss_t_bot) and has many a following in the self-hosted community.  
+It has grown to support hundreds of users and a wide range of channels as a [publicly hosted bot](https://t.me/rss_t_bot) and has a following in the self-hosted community.  
 
 Originally developed in python, it has since been ported to TypeScript using nestjs and sqlite library with migrations managed by prisma. It can be deployed as a multi user docker container.
 
